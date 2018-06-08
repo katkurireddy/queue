@@ -1,0 +1,9 @@
+Spring:
+  active-mq:
+   broker-url: tcp://localhost:61616
+   user: admin
+   pasword: admin
+
+file:
+ path: C:\tmp\order.xml
+ errored: C:\tmp\errored\
