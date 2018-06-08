@@ -5,5 +5,5 @@ Spring:
    pasword: admin
 
 file:
- path: C:\tmp\order.xml
+ path: C:\tmp\
  errored: C:\tmp\errored\
